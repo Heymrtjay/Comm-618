@@ -2,9 +2,9 @@ For Campus Safety, the Clery Crime Report Falls Short
 
 By Terrance Williams
 
-Since 2022, Adam Lehavi’s Address Hate project has identified at least 51 incidents of antisemitism on the campus of American University. His database scrapes campus media, in this case The Eagle, AWOL, and BlackPrint, for reports of antisemitism and on-campus hate crimes. According to the university's Annual Security Report, however, there have only been 19. 
+Since 2022, Adam Lehavi’s Address Hate <https://antisemitism-demo-site.web.app/analytics> project has identified at least 51 incidents of antisemitism on the campus of American University. His database scrapes campus media, in this case The Eagle, AWOL, and BlackPrint, for reports of antisemitism and on-campus hate crimes. According to the university's Annual Security Report <https://www.american.edu/finance/publicsafety/upload/2025-annual-security-report.pdf>, however, there have only been 19. 
 
-This isn't isolated just to hate crimes, and American is not an anomaly.  The nature of the discrepancies lie with the Clery Act, and how universities across the country address campus safety.
+This isn't isolated just to hate crimes, and American is not an anomaly.  The nature of the discrepancies lie with the Clery Act, and how universities across the country address campus safety. <https://beckyyts.github.io/au-crime-analysis/au_campus_map.html>
 
 Who was Jeanne Clery
 
@@ -16,7 +16,7 @@ Anastasios Kapentanakos is the Clery Crime Coordinator at American University. H
 
 Take, for example, simple possession of marijuana. In the District, recreational marijuana was legalized for those over 21. However, since AU is a tobacco and drug-free campus, If a student under 18 is found with it, it would be a minor in possession, which is a misdemeanor under DC law. At the same time, officers have wide authority over the penalty. For students over 21, it would simply be a student code of conduct violation, which doesn’t have to be reported as a crime.
 
-The same is true for alcohol. For more serious crimes, such as sexual harassment or assault, the numbers depend on a range of factors. At AU, for example, there were 14 reports to campus police for sexual offenses between 2022 and 2024. Six were designated Title IX cases, four were closed, one was closed by arrest, one was referred to MPD, one was still labeled pending, and one was found to be unfounded. The Annual Security Report lists 10 for that same time period.
+The same is true for alcohol. For more serious crimes, such as sexual harassment or assault, the numbers depend on a range of factors. At AU, for example, there were 14 reports to campus police for sexual offenses between 2022 and 2024 <https://docs.google.com/spreadsheets/d/1hEdu-ZRdJexftIxFJ818JTWQmufH5TuWhgkClD3SU9k/edit?gid=2103337021#gid=2103337021>. Six were designated Title IX cases, four were closed, one was closed by arrest, one was referred to MPD, one was still labeled pending, and one was found to be unfounded. The Annual Security Report lists 10 for that same time period.
 
 What gets left out
 
